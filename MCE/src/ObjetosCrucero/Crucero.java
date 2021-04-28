@@ -88,4 +88,8 @@ public class Crucero {
                 ", calado=" + calado +
                 '}';
     }
+
+    public int sumarAlgo() {
+        return this.getCalado() + this.getEslora;
+    }
 }
