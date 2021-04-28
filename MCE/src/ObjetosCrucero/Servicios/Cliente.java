@@ -43,4 +43,8 @@ public class Cliente extends Usuario{
         this.setCodigoDescuento(codigoDescuento);
         this.setTelefonoCliente (telefonoCliente);
     }
+
+    public void hacerCosa() {
+        int a = 4+4;
+    }
 }
