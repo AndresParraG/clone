@@ -47,4 +47,8 @@ public class Cliente extends Usuario{
     public void hacerCosa() {
         int a = 4+4;
     }
+
+    public void haad() {
+        int b = 5-2;
+    }
 }
