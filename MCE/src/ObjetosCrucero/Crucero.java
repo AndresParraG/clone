@@ -92,4 +92,8 @@ public class Crucero {
     public int sumarAlgo() {
         return this.getCalado() + this.getEslora;
     }
+
+    public int resta() {
+        return this.getCalado() + this.getEslora();
+    }
 }
